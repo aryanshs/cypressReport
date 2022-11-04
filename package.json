@@ -1,0 +1,27 @@
+{
+  "name": "cypressreport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanshs/cypressReport.git"
+  },
+  "author": "Aryansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryanshs/cypressReport/issues"
+  },
+  "homepage": "https://github.com/aryanshs/cypressReport#readme",
+  "dependencies": {
+    "cypress": "^10.11.0",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "cypress-mochawesome-reporter": "^3.2.3"
+  }
+}
